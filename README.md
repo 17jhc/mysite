@@ -1,4 +1,9 @@
-# mysite
-来自b站up主"再敲一行代码"的视频教学学习结果
-
-## markdown 编辑
+# CSS网站
+- www.bootcss.com
+# 动态表格
+- www.hcharts.cn
+# SQLITE -> MySql
+## 导出导入数据
+- python manage.py dumpdata > data.json
+- python manage.py loaddata data.json
+- 时区问题 timezone 导入时区表
